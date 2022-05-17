@@ -11,7 +11,7 @@ git clone https://github.com/Andrew011002/LSTM
 ```
 
 ## Running
-Go to the last cell in word_predictor_I.ipynb, run the cell, and enter your sequences as inputs
+Go to the last cell in word_predictor_I.ipynb, run the cell, and enter your sequences as inputs (note: model must be saved in "models" or trained)
 
 ## Contributing
 If you find bugs or issues in the code, feel free the make a pull request or open an issue. You can also email me: andrewholmes011002@gmai.com or tweet at me @AndrewNerdimo
