@@ -1,6 +1,6 @@
 # LSTM
 
-Description
+Upload your own, or use the Wizard of Oz text as a corpus to build a model that tries to predict the next word in a sequence
 
 ## Installation
 
